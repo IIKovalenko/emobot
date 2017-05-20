@@ -1,0 +1,6 @@
+*.log
+.git
+.xslx
+__pycache__
+.DS_Store
+.jpg
